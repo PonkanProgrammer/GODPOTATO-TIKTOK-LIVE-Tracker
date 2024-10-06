@@ -32,7 +32,7 @@
 
 ## 使い方
 
-1. `godpotatoiveping.py` スクリプトをエディタで開き、以下の変数を設定します。
+1. `godpotato live Tracker` スクリプトをエディタで開き、以下の変数を設定します。
    - `chrome_driver_path`: ChromeDriverのパスを指定します。
    - `tiktok_url`: 監視するTikTokアカウントのURLを指定します。
 
